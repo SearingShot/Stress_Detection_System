@@ -8,7 +8,7 @@ This repository contains the source code for a Real-Time Facial Emotion Detectio
 
 - **Model Retraining (Optional):** Run the provided Jupyter Notebook (`Stress_Detection.ipynb`) file to retrain the model. This step is necessary only if you wish to train the model with a new dataset or modify the existing one.
 - **Running the Application:** Run the `Main.py` file to start the Flask application for real-time emotion detection and Stress Detection. Ensure that the necessary dependencies are installed before running the application.
-- **Dataset Link:** The dataset used for training the model can be found at [https://www.kaggle.com/datasets/utsavsharma27/emotion-detection-system]. You can download the dataset and use it for retraining the model if needed.
+- **Dataset Link:** The dataset used for training the model can be found at [DataSet](https://www.kaggle.com/datasets/utsavsharma27/emotion-detection-system). You can download the dataset and use it for retraining the model if needed.
 
 ## Technologies Used:
 
