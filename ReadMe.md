@@ -26,6 +26,18 @@ This repository contains the source code for a Real-Time Facial Emotion Detectio
 4. Once the model is trained or if you want to use the pre-trained model, run `Main.py` to start the Flask application.
 5. Access the application through the provided URL and interact with the real-time facial emotion detection and Stress Detection System.
 
+## Results:
+
+- Not Stressed
+
+![Screenshot 2024-03-05 225118](https://github.com/SearingShot/Stress_Detection_System/assets/121299642/568a5975-6792-448b-8876-1b29cc4e2717)
+
+ 
+- Stressed
+
+![Screenshot 2024-03-06 000316](https://github.com/SearingShot/Stress_Detection_System/assets/121299642/09809a02-140a-40ec-88f1-b60d67900e02)
+
+
 ## Contributors:
 
 - Utsav Sharma
